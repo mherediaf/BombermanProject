@@ -1,0 +1,16 @@
+Bomberman project
+
+Participants:
+	-Heredia Favieri, Martin Ariel
+
+Before compiling:
+	-Have installed the SDL library, and the X11
+
+Compiling instructions (runs in Linux):
+	Place yourself in the directory src/ and in the command line type:
+		make
+
+	For running, place yourself in the directory bin/ and in the command line type:
+		./Bomberman
+
+

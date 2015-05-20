@@ -1,0 +1,3 @@
+ConsoleCommand.cpp
+ConsoleCommand.hpp
+log.txt
